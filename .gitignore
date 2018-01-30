@@ -5,6 +5,7 @@
 .idea
 **/node_modules/*
 **/.firebaserc
+service_account.json
 ### Node ###
 # Logs
 logs
