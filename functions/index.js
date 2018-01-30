@@ -1,6 +1,6 @@
 const functions = require("firebase-functions");
 const admin = require("firebase-admin");
-const createUser = reuqire("./create_user");
+const createUser = require("./create_user");
 
 // Set up the service client in order to access data store
 const serviceAccount = require("./service_account.json");
