@@ -1,6 +1,8 @@
 
 # Created by https://www.gitignore.io/api/node,firebase,visualstudiocode
 
+twilio_account.json
+
 ### Firebase ###
 .idea
 **/node_modules/*
